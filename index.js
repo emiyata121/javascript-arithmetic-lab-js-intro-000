@@ -17,10 +17,10 @@ function dec(n){
   return --n
 }
 function makeInt(n){
-  parseInt('876',10)
+  parseInt(n,10)
 }
 function preserveDecimal(n){
-  parseInt('10',10)
+  parseInt(n,10)
 }
 function preserveDecimal(n){
   return parseFloat(n)
